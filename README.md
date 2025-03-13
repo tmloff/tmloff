@@ -1,17 +1,31 @@
 # TML | Développeur passionné - Full-Stack
 
 
-## Technologies métrisés
-- **Web full-stack** : JavaScript, TypeScript, Node.js, Express.js, Vue.js, React.js, PostgreSQL, MySQL, Next.js, Discord.js.
-- Python
-- Java, Bukkit (création de plugin minecraft)
-- C++, UrealEngine
-- Figma
-- Blender
+# 🚀 Technologies maîtrisées
 
-## Expérience
+## 💻 Web Full-Stack
+- **JavaScript** | **TypeScript** | **Node.js** | **Express.js**  
+- **Vue.js** | **React.js** | **Next.js**  
+- **PostgreSQL** | **MySQL** | **Discord.js**
 
-- **Volcanium** : Un serveur minecraft que j'ai co-fondé et développé, pour plus d'infos : https://volcanium.fr
-- **VolcaBot** : Une application discord que je suis en train de développé, avec un équipe que je gère.
-- **9Direct** : Un logiciel permétant de gérer des score pour un sport peu connus, le logiciel sort en Juin 2025. Le site web du sport (Les quilles de 9) : https://quilles.net.
-- **TIB** : Un système de gestion de base de donée PostgreSQL, le projet est open-sources. Repository : https://github.com/tmloff/tib
+## 🐍 Python  
+## ☕ Java (Bukkit pour la création de plugins Minecraft)  
+## 💻 C++ | Unreal Engine  
+## 🎨 Figma  
+## 🖼️ Blender
+
+# 💼 Expérience
+
+- **Volcanium** 🌋  
+  Serveur Minecraft que j'ai cofondé et développé. Pour plus d'infos : [https://volcanium.fr](https://volcanium.fr)
+
+- **VolcaBot** 🤖  
+  Application Discord en développement, avec une équipe que je gère.
+
+- **9Direct** 🏅  
+  Logiciel permettant de gérer les scores pour un sport peu connu, prévu pour sortir en juin 2025.  
+  Le site web du sport (Les quilles de 9) : [https://quilles.net](https://quilles.net)
+
+- **TIB** 📊  
+  Système de gestion de bases de données PostgreSQL, projet open-source.  
+  Repository : [https://github.com/tmloff/tib](https://github.com/tmloff/tib)
