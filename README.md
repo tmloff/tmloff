@@ -12,7 +12,7 @@ TML | Développeur passionné - Full-Stack
 ## ☕ Java (Bukkit pour la création de plugins Minecraft)  
 ## 💻 C++ | Unreal Engine  
 ## 🎨 Figma  
-## Blender
+## ⚡ Blender
 
 # 💼 Expérience
 
