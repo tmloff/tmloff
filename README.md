@@ -1,7 +1,7 @@
 TML | Développeur passionné - Full-Stack
 
 
-# 🚀 Technologies maîtrisées
+# Technologies maîtrisées
 
 ## 💻 Web Full-Stack
 - **JavaScript** | **TypeScript** | **Node.js** | **Express.js**  
