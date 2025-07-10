@@ -6,7 +6,8 @@ TML | Développeur passionné - Full-Stack
 ## 💻 Web Full-Stack
 - **JavaScript** | **TypeScript** | **Node.js** | **Express.js**  
 - **Vue.js** | **React.js** | **Next.js**  
-- **PostgreSQL** | **MySQL** | **Discord.js**
+- **PostgreSQL** | **MySQL** | **SQLite**
+- **Discord.js** | **Google API** | **Open AI**
 
 ## 🐍 Python  
 ## ☕ Java (Bukkit pour la création de plugins Minecraft)  
