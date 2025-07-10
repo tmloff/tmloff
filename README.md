@@ -10,7 +10,8 @@ TML | Développeur passionné - Full-Stack
 - **Discord.js** | **Google API** | **Open AI**
 
 ## 🐍 Python  
-## ☕ Java (Bukkit pour la création de plugins Minecraft)  
+## ☕ Java
+- **Bukkit** pour la création de plugins Minecraft  
 ## 💻 C++ | Unreal Engine  
 ## 🎨 Figma  
 ## ⚡ Blender
