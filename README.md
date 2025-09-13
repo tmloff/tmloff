@@ -19,7 +19,11 @@ TML | Développeur passionné - Full-Stack
 
 # 💼 Expérience
 
-- **Volcanium** 🌋  
+- **Volcanium studio** 🌋  
+Sans aucun doute, mon plus gros projet : une association déclarée que j'ai cofondée et dont je suis le vice-président. Elle vend des sites web tout en apprenant aux jeunes le développement web. Elle finance le serveur Minecraft Volcanium, et le surplus est reversé à d'autres collectivités (écologie, SPA, recherche médicale…).
+Plus d'infos sur https://volcanium-studio.com/
+
+- **Volcanium - Serveur minecraft** 🌋  
   Serveur Minecraft que j'ai cofondé et développé. Pour plus d'infos : [https://volcanium.fr](https://volcanium.fr)
 
 - **C quoi le jeu**   
