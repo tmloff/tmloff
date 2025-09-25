@@ -30,5 +30,5 @@ Plus d'infos sur https://volcanium-studio.com/
   J'ai participé au développement du [jeu en ligne](http://cquoilejeu.fr/). [Le Repo github ici](https://github.com/CQuoiLeJeu-Dev/C-Quoi-Le-Jeu)
 
 - **9Direct** 
-  Logiciel permettant de gérer les scores pour un sport peu connu, prévu pour sortir en juin 2026.  
+  Logiciel permettant de gérer les scores pour un sport originaire du sud-oest de la france, prévu pour sortir en juin 2026.  
   Le site web du sport (Les quilles de 9) : [https://quilles.net](https://quilles.net)
