@@ -1,4 +1,4 @@
-TML | Etudiant développeur passionné - Full-Stack
+TML | Etudiant développeur - Full-Stack
 
 
 # Technologies utilisées
