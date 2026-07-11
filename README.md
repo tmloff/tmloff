@@ -90,8 +90,3 @@ Logiciel de gestion des compétitions de Quilles de 9.
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmloff&theme=github-dark)
 
----
-
-# 📈 Activité
-
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmloff\&theme=github-dark)
