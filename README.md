@@ -88,7 +88,7 @@ Logiciel de gestion des compétitions de Quilles de 9.
 
 # 📊 Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tmloff\&show_icons=true\&theme=github_dark\&hide_border=true\&rank_icon=github)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=tmloff&theme=github-dark)
 
 ---
 
